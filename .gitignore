@@ -1,4 +1,4 @@
-node_modules/
+node_modules
 packages/app/node_modules
 packages/common/node_modules
 packages/web/node_modules
